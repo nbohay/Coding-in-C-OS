@@ -1,0 +1,25 @@
+Nicholas Bohay
+
+May 2,2017
+
+Homework 4
+
+
+
+How to run code.
+
+To change numbers of pageframes you must manually change them. This is in the hw4.c file.
+There is a comment on where to change it. 
+
+The three functions are written in header files. 
+These files are then references in the main in hw4.c file. 
+
+
+
+To run you must command line to the locations of the files and type:gcc -o hw4 hw4.c -lm
+
+then you must type in the command line: ./hw4
+
+This will run the code with the results that were printed out in the folder labeled Screenshots. 
+
+ 

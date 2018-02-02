@@ -1,0 +1,12 @@
+Nicholas Bohay
+Operating Systems
+2/22/2017
+
+I ran my code in linux terminal. 
+I had to install gcc. 
+I also installed gedit as my code editor.
+Then I cd'd to the folder that it was located in. 
+Then I typed: gcc -o (Program_name) (Program_name.c). (no paranthesis just example names)
+After it compiled I ran the program by typing: ./Program_name
+
+Both of the files properly compiled and ran successfully.

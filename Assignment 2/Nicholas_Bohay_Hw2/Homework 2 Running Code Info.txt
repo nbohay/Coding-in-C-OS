@@ -1,0 +1,23 @@
+Nicholas Bohay
+
+Homework 2 
+
+3/23/2017
+
+
+
+To run code in C 
+
+I inputted:
+
+
+gcc -pthread -o hw2 hw2.c -lm
+
+
+
+(-pthread(is used to run the threads), -lm (is used to run the math funcations))
+
+
+
+
+Java code was run in Eclipse.

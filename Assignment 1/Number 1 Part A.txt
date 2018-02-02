@@ -1,0 +1,5 @@
+//Nicholas Bohay
+//Operating Systems
+//2-22-2017
+
+#1.a) the answer is 16
